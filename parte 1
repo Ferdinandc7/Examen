@@ -1,0 +1,51 @@
+Responsable: Curso de Ing del Software	
+Creación
+	Para la creación 
+
+Los programadores del grupo están desarrollando la herramienta en lenguaje django, a su vez con los recursos obtenidos gracias a los requerimientos, se pudo mejorar la velocidad del desarrollado de la misma, paralelamente los gestores de base de datos trabajan en la primera versión de la base de datos que se utilizara para guardar toda la información de los usuarios que adquirieran la herramienta.
+
+
+
+
+Responsable: Curso de Ing del Software	
+Modificación
+	Para la modificación 
+
+Durante el desarrollo de la herramienta de automatización para procesos de pasantías se encontraron nuevas formas de optimizar dicha herramienta, por lo que nuestros programadores cambiaron ciertas conexiones entre los actores del sistema, ahora el área de Sistemas, y los encargados de las pasantías poseen filtros de datos que servirán para verificar si los usuarios finales enviaron correctamente los documentos respectivos.
+
+
+Responsable: Curso de Ing del Software	
+Verificación
+	Para la verificación 
+
+Nuestro encargado de pruebas encontró múltiples errores en el sistema, que fueron reportados inmediatamente a los programadores, por lo que se retorna al proceso de modificación del mismo para corregir las fallas previamente mencionadas.
+
+
+
+Responsable: Curso de Ing del Software	
+Modificación
+	Para la modificación 
+
+Se realizaron los cambios respectivos entre las conexiones Servidor – Departamentos de Sistemas y Pasantías, lo cual produjo un retraso en la fecha de publicación del proyecto, ahora se procede nuevamente al proceso de verificación
+
+
+
+Responsable: Curso de Ing del Software	
+Verificación
+	Para la verificación 
+
+Nuestro encargado de pruebas, trabajo conjuntamente con el programador B, para poner al límite al sistema y explotar toda su capacidad.
+
+
+Responsable: Curso de Ing del Software	
+Validación
+	Para la validación
+
+El encargado de calidad, juntamente con el encargado de pruebas, estuvieron analizando los puntos altos y bajos de la aplicación, por lo que se llegó a la conclusión que el software puede ser lanzado, pero, se implementaran ciertas actualizaciones para mejorar aún más el servicio.
+
+Responsable: Curso de Ing del Software	
+Eliminación
+	Para la eliminación
+
+Durante los periodos de Modificación y Verificación se realizaron múltiples cambios, y se eliminaron ciertas innecesarias entre el cliente – servidor, a su vez la primera versión de la mejora de optimización entre Servidor – Departamentos de la Institución se desechada y remodelada nuevamente desde la base.
+
